@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Playfair Display', serif;
+}
+
+#sec1 {
+  background-image: url("src/assets/header/roberto-nickson-so3wgJLwDxo-unsplash 1 (5).png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bgcard1 {
+  background-image: url("src/assets/main/section 3/card1/Mask group (11).png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg1 {
+  background-image: url("src/assets/main/section 4/Ресурс 2@3x 1.png");
+  background-repeat: no-repeat;
+}
+
+.bg2 {
+  background-image: url("src/assets/main/section 5/& (1).png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.card2d {
+  border-radius: 14px;
+  background: rgba(255, 255, 255, 0.03);
+  backdrop-filter: blur(10.5px);
+}
+.jk {
+  background-image: url("src/assets/main/section 7/christina-deravedisian-C8hRMzSpBhA-unsplash 1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.card {
+  background-image: url("src/assets/Card3/grgur-vuckov-Ujn77KM2AGc-unsplash 1 (1).png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 400px;
+}
+.fot {
+  background: #101010;
+}
